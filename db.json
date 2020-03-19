@@ -1,0 +1,24 @@
+{
+  "category":[
+      {
+        "id": "category0001",
+        "categoryName": "シューズ"
+      },
+      {
+        "id": "category0002",
+        "categoryName": "ファッション雑貨"
+      },
+      {
+        "id": "category0003",
+        "categoryName": "トップス"
+      },
+      {
+        "id": "category0004",
+        "categoryName": "ジャケット/アウター"
+      },
+      {
+        "id": "category0005",
+        "categoryName": "パンツ"
+      }
+    ]
+}
