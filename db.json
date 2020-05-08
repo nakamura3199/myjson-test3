@@ -20,9 +20,10 @@
         "id": "category0005",
         "categoryName": "パンツ"
       }
-    ]
-  "register":
+    ],
+  "register":[
     {
       "status": "OK"
     }
+  ]
 }
