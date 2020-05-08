@@ -21,4 +21,9 @@
         "categoryName": "パンツ"
       }
     ]
+  "register":[
+    {
+      "status": "OK"
+    }
+  ]
 }
