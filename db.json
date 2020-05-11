@@ -23,7 +23,12 @@
     ],
   "register":[
     {
+      "id": "abc@example.com",
       "status": "OK"
+    }
+    {
+      "id": "error@example.com",
+      "status": "NG"
     }
   ]
 }
