@@ -24,7 +24,8 @@
   "register":[
     {
       "id": "abc@example.com",
-      "status": "OK"
+      "status": "OK",
+      "customer_id": 987654321
     },
     {
       "id": "error@example.com",
