@@ -31,5 +31,16 @@
       "id": "error@example.com",
       "status": "NG"
     }
+  ],
+  "company":[
+    {
+      "id": "abc@example.com",
+      "status": "OK",
+      "company_id": "company00001"
+    },
+    {
+      "id": "error@example.com",
+      "status": "NG"
+    }
   ]
 }
