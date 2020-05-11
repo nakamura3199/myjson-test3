@@ -34,12 +34,12 @@
   ],
   "company":[
     {
-      "id": "abc@example.com",
+      "id": "000001",
       "status": "OK",
       "company_id": "company00001"
     },
     {
-      "id": "error@example.com",
+      "id": "000002",
       "status": "NG"
     }
   ]
